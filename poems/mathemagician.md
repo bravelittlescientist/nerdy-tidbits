@@ -19,7 +19,9 @@ _Probably for the best that I kept my dayjob :)_
 > To which the mathemagician sagely suggested,
 >
 > "Don't mistreat your memory, it's just not very nice!"
->
+
+Entertaining extension:
+
 > fail_alloc replies: you are totally right!
 >
 > Now I need you to come home with me tonight
