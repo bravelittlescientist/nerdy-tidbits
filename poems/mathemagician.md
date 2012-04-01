@@ -19,3 +19,11 @@ _Probably for the best that I kept my dayjob :)_
 > To which the mathemagician sagely suggested,
 >
 > "Don't mistreat your memory, it's just not very nice!"
+>
+> fail_alloc replies: you are totally right!
+>
+> Now I need you to come home with me tonight
+>
+> For  I have allocated a zero-initialized bed for you. 
+>
+> And just so you know: my /proc/sys/vm/overcommit_memory is set to 2!
